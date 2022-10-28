@@ -1,6 +1,6 @@
 <h2> Hi, I'm DEBASHISH BORDOLOI! <img src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="50"></h2>
 <img align='right' src="https://giphy.com/embed/du3J3cXyzhj75IOgvA" width="230">
-<p><em>Undergrad Student  at <a href="http://www.adtu.in">Assam Downtown University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Undergrad Student  at <a href="http://www.adtu.in">Assam Downtown University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
 [![Linkedin: debtechsolution](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/debtechsolution/)](https://www.linkedin.com/in/debtechsolution/)
