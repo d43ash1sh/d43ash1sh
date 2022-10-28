@@ -1,5 +1,5 @@
 <h2> Hi,I'm DEBASHISH BORDOLOI!</h2>
-<img align='right' src="https://projects.epicthings.xyz/dump-materials/dogPic.jpeg" width="230">
+<img align='right' src="https://simg-memechat.s3.ap-south-1.amazonaws.com/TWru1bkBxWi6lCxX5flneagg2WyQt84318600.jpg" width="230" height="230">
 <p><em>Undergrad Student  at <a href="http://www.adtu.in">Assam Downtown University</a>
 </em></p>
 
