@@ -5,6 +5,6 @@
 [![Linkedin: debtechsolution](https://img.shields.io/badge/-debtechsolution-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/debtechsolution/)](https://www.linkedin.com/in/debtechsolution/)
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
-### <img src="https://preview.redd.it/c2jmim43s4041.jpg?auto=webp&s=2a745f92a33eb0cdbadb28edcf15d8ab83b93718" width="100">
+
 ```javascript
  Challenge: "I am doing the #100DaysOfSleepingChallenge"
