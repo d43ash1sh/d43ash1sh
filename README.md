@@ -1,5 +1,5 @@
-<h2> Hi, I'm DEBASHISH BORDOLOI!</h2>
-<img align='right' src="" width="230">
+<h2> Hi,I'm DEBASHISH BORDOLOI!</h2>
+<img align='right' src="https://projects.epicthings.xyz/dump-materials/dogPic.jpeg" width="230">
 <p><em>Undergrad Student  at <a href="http://www.adtu.in">Assam Downtown University</a>
 </em></p>
 
@@ -10,14 +10,9 @@
 
 ```javascript
 const d43ash1sh = {
-  pronouns: "she" | "her",
+  pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
  challenge: "I am doing the #100DaysOfSleeping challenge"
 }
