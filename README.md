@@ -4,7 +4,6 @@
 
 [![Linkedin: debtechsolution](https://img.shields.io/badge/-debtechsolution-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/debtechsolution/)](https://www.linkedin.com/in/debtechsolution/)
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-<div style="width:100%"><div style="height:0;padding-bottom:56.25%;position:relative;width:100%"><iframe allowfullscreen="" frameBorder="0" height="100%" src="https://giphy.com/embed/lu01tsQqf1mJuHrFVq/video" style="left:0;position:absolute;top:0" width="100%"></iframe></div></div>
-
+### <img src="https://giphy.com/embed/umYMU8G2ixG5mJBDo5" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></img><p><a> href="https://giphy.com/gifs/BoschGlobal-coding-home-office-remote-working-umYMU8G2ixG5mJBDo5">via GIPHY</a></p>
 ```javascript
  Challenge: "I am doing the #100DaysOfSleepingChallenge"
