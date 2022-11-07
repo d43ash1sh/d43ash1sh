@@ -2,6 +2,6 @@
 <p><em>Undergrad Student  at <a href="http://www.adtu.in">Assam Downtown University</a>
 </em></p>
 
-[![Linkedin: debtechsolution](https://img.shields.io/badge/-debtechsolution-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/debtechsolution/)](https://www.linkedin.com/in/debtechsolution/)
+[![Linkedin: debashishbordoloi](https://img.shields.io/badge/-debtechsolution-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/debashishbordoloi/)](https://www.linkedin.com/in/debashishbordoloi/)
 ```javascript
  Challenge: "I am doing the #100DaysOfSleepingChallenge"
