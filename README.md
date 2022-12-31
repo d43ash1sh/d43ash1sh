@@ -6,4 +6,4 @@
 [![Linkedin: debashishbordoloi](https://img.shields.io/badge/-debashishbordoloi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/debashishbordoloi/)](https://www.linkedin.com/in/debashishbordoloi/)
 
 ```javascript
- Challenge: "100000 Days of Coding Phases"
+ Challenge: "I am doing the #100DaysOfSleepingChallenge"
